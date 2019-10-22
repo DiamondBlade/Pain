@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{89432FCD-57F7-4417-816D-58A5332E4934}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D330C087-5471-450C-A41E-7BCADF3CFD37}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject6">
+      <UniqueIdentifier>{3336A7B5-BE64-4405-8055-D158DF9D0A11}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject6\MuhBPLibrary.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\MuhBPLibrary.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject6\MyProject6.Build.cs">
+      <Filter>Source\MyProject6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject6\MyProject6.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\MyProject6.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject6\MyProject6GameModeBase.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\MyProject6GameModeBase.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyProject6\DeleteMePlease.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyProject6\DeleteMePlease.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

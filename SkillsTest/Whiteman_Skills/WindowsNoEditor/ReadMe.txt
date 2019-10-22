@@ -1,0 +1,1 @@
+The original image from which normals, ambient occulsions, and speculars are derived from, is in no way owned or claimed by myself.

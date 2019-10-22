@@ -1,0 +1,28 @@
+﻿  Creating makefile for MyProject4Editor (ini files are newer than makefile)
+  Parsing headers for MyProject4Editor
+    Running UnrealHeaderTool "C:\Users\dy663380\Documents\Unreal Projects\MyProject4\MyProject4.uproject" "C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\MyProject4Editor\Development\MyProject4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProject4Editor in 5.0222227 seconds
+  Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  MyProject4GameMode.cpp (0:04.56 at +0:00)
+  UE4Editor-MyProject4-0001.dll (0:00.84 at +0:04)
+     Creating library C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\UE4Editor-MyProject4-0001.suppressed.lib and object C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\UE4Editor-MyProject4-0001.suppressed.exp
+  UE4Editor-MyProject4-0001.lib (0:00.11 at +0:05)
+     Creating library C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\UE4Editor-MyProject4-0001.lib and object C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\UE4Editor-MyProject4-0001.exp
+  MyProject4Editor.target (0:00.12 at +0:05)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 5.79 seconds
+  Total execution time: 12.37 seconds

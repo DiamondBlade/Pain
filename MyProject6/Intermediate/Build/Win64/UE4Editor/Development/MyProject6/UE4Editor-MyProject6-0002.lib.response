@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject6-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\MyProject6Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MuhBPLibrary.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MyProject6.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MyProject6GameModeBase.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MuhBPLibrary.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MyProject6.init.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\MyProject6GameModeBase.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\Default.rc2.res"
+/OUT:"C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\UE4Editor-MyProject6-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject6

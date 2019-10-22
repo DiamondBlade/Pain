@@ -1,0 +1,29 @@
+﻿  Parsing headers for MyProject6Editor
+    Running UnrealHeaderTool "C:\Users\dy663380\Documents\Unreal Projects\MyProject6\MyProject6.uproject" "C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\MyProject6Editor\Development\MyProject6Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProject6Editor in 8.8525892 seconds
+  Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  MuhBPLibrary.cpp (0:00.54 at +0:00)
+  MuhBPLibrary.gen.cpp (0:00.64 at +0:00)
+  MyProject6.init.gen.cpp (0:00.50 at +0:01)
+  UE4Editor-MyProject6-0007.dll (0:00.78 at +0:01)
+     Creating library C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\UE4Editor-MyProject6-0007.suppressed.lib and object C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\UE4Editor-MyProject6-0007.suppressed.exp
+  UE4Editor-MyProject6-0007.lib (0:00.09 at +0:02)
+     Creating library C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\UE4Editor-MyProject6-0007.lib and object C:\Users\dy663380\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\UE4Editor\Development\MyProject6\UE4Editor-MyProject6-0007.exp
+  MyProject6Editor.target (0:00.14 at +0:02)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 2.89 seconds
+  Total execution time: 12.33 seconds

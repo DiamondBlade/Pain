@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\MyProject4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4Character.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4GameMode.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4HUD.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4Projectile.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4.init.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4Character.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4GameMode.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4HUD.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\MyProject4Projectile.gen.cpp.obj"
+"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\Default.rc2.res"
+/OUT:"C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\UE4Editor-MyProject4.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject4
