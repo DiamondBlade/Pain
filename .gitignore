@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SkillsTest/Saved/StagedBuilds/WindowsNoEditor/SkillsTest/Content/Paks/SkillsTest-WindowsNoEditor.pak
+SkillsTest/Whiteman_Skills/WindowsNoEditor/SkillsTest/Content/Paks/SkillsTest-WindowsNoEditor.pak
