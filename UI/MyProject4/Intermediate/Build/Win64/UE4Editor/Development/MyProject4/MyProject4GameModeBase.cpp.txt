@@ -1,0 +1,7 @@
+C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Development\MyProject4\Definitions.MyProject4.h
+c:\users\dy663380\documents\unreal projects\myproject4\source\myproject4\MyProject4GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\dy663380\Documents\Unreal Projects\MyProject4\Intermediate\Build\Win64\UE4Editor\Inc\MyProject4\MyProject4GameModeBase.generated.h
